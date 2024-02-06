@@ -1,4 +1,4 @@
-
+#No issue-demo purpose
 spring:
   jpa:
     generate-ddl: true
